@@ -1,0 +1,1 @@
+lzww.exe -d %*
